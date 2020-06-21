@@ -1,0 +1,27 @@
+.App{
+  background-color: #fafafa;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 280px 280px 280px;
+  align-items: flex-start;
+  justify-content: center;
+
+}
+#card{
+  width: 260px;
+  height: 200px;
+}
+.ant-btn{
+  margin-right: 10px;
+}
+.ant-card-head{
+  height: 20px;
+  margin: 0;
+  padding: 0;
+}
+.acoes{
+  height: 190px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
